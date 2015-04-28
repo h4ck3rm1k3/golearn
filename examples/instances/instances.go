@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/sjwhitworth/golearn/base"
+	"github.com/h4ck3rm1k3/golearn/base"
 )
 
 func main() {
